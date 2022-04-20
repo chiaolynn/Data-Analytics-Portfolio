@@ -4,4 +4,4 @@ This is an Instagram photo crawler that can scrape images from Instagram website
 # Result
 E.g., Search #風景 and it will automatically download the lastest images from Instagram to your computer (images will be numbered sequentially).
 
-![result](https://user-images.githubusercontent.com/57652591/164143863-6bfe6b40-3c8e-4da5-a91e-536c951dd747.png)
+![result](https://user-images.githubusercontent.com/57652591/164145089-3390c9b9-800e-46a8-a602-a3e054b2674f.png)
