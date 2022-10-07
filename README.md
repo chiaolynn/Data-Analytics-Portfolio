@@ -1,5 +1,5 @@
 # Portfolio
 
-This repository contains works(analysis, visualizations, etc.) I have completed using R, Python, and Tableau.
+This repository contains mini hands on projects using Python and Tableau.
 
 
